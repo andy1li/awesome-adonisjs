@@ -78,6 +78,7 @@ _We would like to thank [Zura Gabievi](https://github.com/zgabievi) for maintain
 - [AdonisJS Lucid Zero Adapter](https://github.com/antislophq/zero-lucid) - AdonisJS Lucid adapter for rocicorp/zero
 - [AdonisJS Lucid Zero Generator](https://github.com/antislophq/zero-lucid-generator) - Generate rocicorp/zero schemas from Lucid ORM schemas.
 - [AdonisJS Ally Slack](https://github.com/antislophq/ally-slack-driver) - A Slack driver for AdonisJS Ally
+- [AdonisJS Japa JUnit Reporter](https://github.com/antislophq/japa-junit-reporter) - A JUnit reporter for AdonisJS Japa
 
 ## Articles, tutorials, and blog posts
 
